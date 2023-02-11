@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLibrary.WebUtil", "SupportLibrary.WebUtil\SupportLibrary.WebUtil.csproj", "{07B30C48-3F29-4857-A29F-627701A6A6A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLibrary.Common", "SupportLibrary.Common\SupportLibrary.Common.csproj", "{F59F6019-3AE8-4582-8FC6-CC0EE1DE91F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLibrary.UserAgentParser", "SupportLibrary.UserAgentParser\SupportLibrary.UserAgentParser.csproj", "{BD3EED0A-8262-4E5F-B973-2120FAC62E00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLibrary.Slack", "SupportLibrary.Slack\SupportLibrary.Slack.csproj", "{8838DD2B-3701-4E34-ACFD-FA96AB5495AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLibrary.Gmail", "SupportLibrary.Gmail\SupportLibrary.Gmail.csproj", "{050F6A8F-394F-4815-9658-90D26430DE3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLibrary.HttpClient", "SupportLibrary.HttpClient\SupportLibrary.HttpClient.csproj", "{F096D17E-AE9A-47C9-BFF4-36A0CD5C3CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B30C48-3F29-4857-A29F-627701A6A6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B30C48-3F29-4857-A29F-627701A6A6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B30C48-3F29-4857-A29F-627701A6A6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B30C48-3F29-4857-A29F-627701A6A6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59F6019-3AE8-4582-8FC6-CC0EE1DE91F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59F6019-3AE8-4582-8FC6-CC0EE1DE91F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59F6019-3AE8-4582-8FC6-CC0EE1DE91F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59F6019-3AE8-4582-8FC6-CC0EE1DE91F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3EED0A-8262-4E5F-B973-2120FAC62E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3EED0A-8262-4E5F-B973-2120FAC62E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3EED0A-8262-4E5F-B973-2120FAC62E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3EED0A-8262-4E5F-B973-2120FAC62E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8838DD2B-3701-4E34-ACFD-FA96AB5495AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8838DD2B-3701-4E34-ACFD-FA96AB5495AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8838DD2B-3701-4E34-ACFD-FA96AB5495AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8838DD2B-3701-4E34-ACFD-FA96AB5495AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050F6A8F-394F-4815-9658-90D26430DE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050F6A8F-394F-4815-9658-90D26430DE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050F6A8F-394F-4815-9658-90D26430DE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050F6A8F-394F-4815-9658-90D26430DE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F096D17E-AE9A-47C9-BFF4-36A0CD5C3CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F096D17E-AE9A-47C9-BFF4-36A0CD5C3CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F096D17E-AE9A-47C9-BFF4-36A0CD5C3CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F096D17E-AE9A-47C9-BFF4-36A0CD5C3CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75660625-4591-443B-A72F-4BDCC106F72D}
+	EndGlobalSection
+EndGlobal
